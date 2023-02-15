@@ -1,0 +1,9 @@
+input[type *= "t"]{
+    color: red;
+}
+a[href *=".com"]{
+    color: red;
+}
+label[for *="name"]{
+    color: red;
+}
