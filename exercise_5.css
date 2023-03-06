@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+    background-color: grey;
+    margin: 0px 150px 0px 150px;
+}
+.first , .second{
+    border: 2px solid grey;
+    margin: 0px 150px 0px 150px;
+    padding-left: 5px;
+    margin-bottom: 20px;
+}
